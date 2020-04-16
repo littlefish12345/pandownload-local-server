@@ -1,5 +1,4 @@
 # 简述
-https://github.com/littlefish12345/pandownload-local-server
 这是一个能在本地伪造pandownload的服务器的程序
 
 # 使用方法
