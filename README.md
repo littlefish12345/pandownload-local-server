@@ -4,7 +4,9 @@ https://github.com/littlefish12345/pandownload-local-server
 
 # 使用方法
 1.clone下来
+
 2.修改host文件,添加一行:127.0.0.1 pandownload.com
+
 3.运行main.py
 
 # 总结
